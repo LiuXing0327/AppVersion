@@ -1,6 +1,6 @@
 {
-    "versionCode":2,
+    "versionCode":1,
     "versionName":1,
-    "releaseNotes":"此版本修复了一些bug，并增加了一些新功能。",
-    "downloadUrl":"https://example.com/app.apk"
+    "releaseNotes":"fix a bug",
+    "downloadUrl":"https://liuxing.com/app.apk"
 }
